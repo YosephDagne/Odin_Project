@@ -1,9 +1,9 @@
 import React from 'react'
-
+import Greeting from "./components/Greeting"
 const App = () => {
   return (
     <div>
-      <h1>Hello</h1>
+      <Greeting/>
     </div>
   )
 }
